@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/anashaat95/Conference-Ticket-Generator)
+- Live Site URL: [Live](https://conf-ticket-generator.netlify.app/)
 
 ## My process
 
@@ -59,6 +59,6 @@ Actually, I learned a lot while building this website using plain HTML, CSS, and
 
 ## Author
 
-- Website - Ahmed Nashaat Alnagar (https://www.linkedin.com/in/anashaat95/)
+- Website - [Ahmed Nashaat Alnagar] (https://www.linkedin.com/in/anashaat95/)
 - Frontend Mentor - [@anashaat95](https://www.frontendmentor.io/profile/anashaat95)
 - Twitter - [@anashaat95](https://www.twitter.com/anashaat95)

@@ -21,7 +21,7 @@ ticketEl.innerHTML = `
       <p class="date-location">Jan 31, 2025 / Austin, TX</p>
     </div>
     <div class="ticket--details">
-      <img class="ticket--avatar" src="${localStorage.getItem(USER_AVATAR_KEY) || "./assets/images/image-avatar.jpg"}" alt="${fullname}" />
+      <img class="ticket--avatar" src="./assets/images/image-avatar.jpg" alt="${fullname}" />
       <div class="ticket--user-data">
         <p class="ticket--fullname">${fullname}</p>
         <div class="ticket--github">
